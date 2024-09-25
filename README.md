@@ -15,10 +15,6 @@
 ## ⌨️ Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroloal&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
 
-##
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alvaroloal&repo=proyecto-paquetes)](https://github.com/alvaroloal/proyecto-paquetes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alvaroloal&repo=proyecto-tienda-remo)](https://github.com/alvaroloal/proyecto-tienda-remo)
-
 ## 📩 Contacto
 <p align="left" >
       <a href="mailto:alorentealman@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="45"></a>
