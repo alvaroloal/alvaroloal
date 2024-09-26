@@ -1,4 +1,5 @@
-## Hola! 👋
+<!--
+## Hola! 👋 -->
 <h2 align="left"> Estudiante desarrollo aplicaciones multiplataforma 💻</h2>
 
 ## 💼 Technical Skills   
