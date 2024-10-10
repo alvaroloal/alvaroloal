@@ -1,7 +1,7 @@
 <!--
 ## Hola! 👋 -->
-<h2 align="left"> Estudiante Desarrollo Aplicaciones Multiplataforma 💻</h2>
-
+<h2 align="left">💻</h2>
+<!-- Estudiante Desarrollo Aplicaciones Multiplataforma -->
 ## 💼 Technical Skills   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Html](https://img.shields.io/badge/html-%230095D5.svg?style=for-the-badge&logo=html&logoColor=white)
