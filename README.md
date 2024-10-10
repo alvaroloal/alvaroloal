@@ -1,6 +1,6 @@
 <!--
 ## Hola! 👋 -->
-<h2 align="left">💻</h2>
+<h2 align="left">💻Desarrollo aplicaciones multiplataforma</h2>
 
 ## 💼 Technical Skills  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
