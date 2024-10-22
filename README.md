@@ -1,8 +1,8 @@
 <!--
 ## Hola! 👋 -->
 <h2 align="left">💻Desarrollo aplicaciones multiplataforma</h2>
-![Visitas al perfil](https://komarev.com/ghpvc/?username=carlitosromvn&color=blue)
 
+![Visitas al perfil](https://komarev.com/ghpvc/?username=carlitosromvn&color=blue)
 ## 💼 Technical Skills  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,python,angular,ts,spring,github)](https://www.baeldung.com)
 
