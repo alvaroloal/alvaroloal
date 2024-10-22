@@ -3,7 +3,7 @@
 <h2 align="left">💻Desarrollo aplicaciones multiplataforma</h2>
 
 ## 💼 Technical Skills  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,angular,ts,bootstrap,spring,github)](https://www.baeldung.com)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,boostrap,java,python,angular,ts,spring,github)](https://www.baeldung.com)
 
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroloal&show_icons=true&theme=tokyonight)
