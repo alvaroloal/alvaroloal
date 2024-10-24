@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="">Álvaro</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
 <h2 align="left">💻Desarrollo aplicaciones multiplataforma</h2>
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=alvaroloal&color=blue)
