@@ -6,7 +6,7 @@ Soy un estudiante de programación y desarrollo de aplicaciones, tengo 26 años,
 ⌨️Desarrollo aplicaciones multiplataforma. 
 
 🔹Proyectos API REST con SpringBoot. 
-- [Proyecto Empresa Paquetería] (https://github.com/alvaroloal/proyecto-tienda-remo)
+[Proyecto Empresa Paquetería] (https://github.com/alvaroloal/proyecto-tienda-remo)
 - [Proyecto Tienda Productos Remo] (https://github.com/alvaroloal/proyecto-tienda-remo)
 
 🔹Aplicaciones con Angular. 
