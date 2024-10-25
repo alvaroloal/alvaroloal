@@ -3,7 +3,9 @@
 ## 💫 About Me:
 Soy un estudiante de programación y desarrollo de aplicaciones, tengo 26 años, nacido en Sevilla y estoy interesado por el aprendizaje y el desarrollo de soluciones tecnológicas innovadoras. Mi misión es aportar valor a los proyectos en los que me involucro. Me encanta enfrentar nuevos retos, aprender nuevas tecnologías y trabajar en equipo para construir aplicaciones que marquen la diferencia.<br><br>Mi enfoque está siempre en mejorar mis habilidades y aportar mis conocimientos en cada proyecto, desde el diseño hasta la implementación. Mi meta es seguir creciendo en el mundo del desarrollo de software, contribuir en proyectos y mantenerme siempre actualizado sobre las últimas tendencias tecnológicas.
 
-💻Desarrollo aplicaciones multiplataforma
+⌨️Desarrollo aplicaciones multiplataforma
+🔹Proyectos API REST con SpringBoot
+🔹Aplicaciones con Angular
 
 [![](https://visitcount.itsvg.in/api?id=alvaroloal&icon=0&color=0)](https://visitcount.itsvg.in)
 
