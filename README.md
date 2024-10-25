@@ -5,13 +5,13 @@ Soy un desarrollador de aplicaciones y estudiante de programación de 26 años, 
 Tengo capacidad para enfrentar nuevos retos y aprender tecnologías. He trabajado en varios proyectos de APIs REST usando Spring, y actualmente estoy aprendiendo otros frameworks para ampliar mis conocimientos y herramientas de desarrollo. Me gusta colaborar en equipo, aportando para lograr soluciones de calidad.<br><br>
 Mi objetivo es seguir creciendo en el mundo del desarrollo de software, contribuyendo activamente en proyectos y manteniéndome al día con las últimas tendencias tecnológicas.
 
-⌨️Desarrollo aplicaciones multiplataforma. 
+<img src="https://img.icons8.com/fluency/48/000000/multiple-devices.png" alt="multiplatform devices" width="20" height="20"/> Desarrollo aplicaciones multiplataforma. 
 
-🔹Proyectos API REST con SpringBoot. 
+<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring logo" width="20" height="20"/> Proyectos con SpringBoot  
 - [Proyecto Empresa Paquetería](https://github.com/alvaroloal/proyecto-paquetes)
 - [Proyecto Tienda Productos Remo](https://github.com/alvaroloal/proyecto-tienda-remo)
 
-🔹Aplicaciones con Angular. 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular logo" width="20" height="20"/> Aplicaciones con Angular. 
 
 [![](https://visitcount.itsvg.in/api?id=alvaroloal&icon=0&color=0)](https://visitcount.itsvg.in)
 
