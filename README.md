@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy <a href="">Álvaro</a> 👋</h1>
 
 ## 💫 About Me:
-Soy un desarrollador de aplicaciones y estudiante de programación de 26 años, nacido en Sevilla. Me gusta aportar valor en cada proyecto en el que participo, buscando siempre que el resultado marque una diferencia positiva.<br><br>
+Soy un desarrollador de aplicaciones y estudiante de programación de 26 años, nacido en Sevilla. Me gusta aportar valor en cada proyecto que participo, buscando siempre que el resultado marque una diferencia.<br><br>
 Tengo capacidad para enfrentar nuevos retos y aprender tecnologías. He trabajado en varios proyectos de APIs REST usando Spring, y actualmente estoy aprendiendo otros frameworks para ampliar mis conocimientos y herramientas de desarrollo. Me gusta colaborar en equipo, aportando para lograr soluciones de calidad.<br><br>
 Mi objetivo es seguir creciendo en el mundo del desarrollo de software, contribuyendo activamente en proyectos y manteniéndome al día con las últimas tendencias tecnológicas.
 
