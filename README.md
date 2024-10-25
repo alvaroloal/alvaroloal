@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy <a href="">Álvaro</a> 👋</h1>
 
 ## 💫 About Me:
-Soy un estudiante de programación y desarrollo de aplicaciones, tengo 26 años, nacido en Sevilla. Me gusta aportar valor a los proyectos en los que me involucro. Tengo la capacidad de enfrentar nuevos retos, aprender nuevas tecnologías y trabajar en equipo para construir aplicaciones que marquen la diferencia.<br><br>Mi objetivo es seguir creciendo en el mundo del desarrollo de software, contribuir en proyectos y mantenerme siempre actualizado sobre las últimas tendencias tecnológicas.
+Soy un estudiante de programación y desarrollo de aplicaciones, tengo 26 años, nacido en Sevilla. Me gusta aportar valor a los proyectos en los que me involucro.<br><br>Tengo la capacidad de enfrentar nuevos retos, aprender nuevas tecnologías y trabajar en equipo para construir aplicaciones que marquen la diferencia.<br><br>Mi objetivo es seguir creciendo en el mundo del desarrollo de software, contribuir en proyectos y mantenerme siempre actualizado sobre las últimas tendencias tecnológicas.
 
 ⌨️Desarrollo aplicaciones multiplataforma. 
 
