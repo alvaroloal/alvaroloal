@@ -5,11 +5,11 @@ Soy un estudiante de programación y desarrollo de aplicaciones, tengo 26 años,
 
 ⌨️Desarrollo aplicaciones multiplataforma. 
 
-🟢Proyectos API REST con SpringBoot. 
+🔳Proyectos API REST con SpringBoot. 
 - [Proyecto Empresa Paquetería](https://github.com/alvaroloal/proyecto-paquetes)
 - [Proyecto Tienda Productos Remo](https://github.com/alvaroloal/proyecto-tienda-remo)
 
-🔴Aplicaciones con Angular. 
+🔳Aplicaciones con Angular. 
 
 [![](https://visitcount.itsvg.in/api?id=alvaroloal&icon=0&color=0)](https://visitcount.itsvg.in)
 
