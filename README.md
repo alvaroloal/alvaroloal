@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy <a href="">Álvaro</a> 👋</h1>
 
 ## 💫 About Me:
-Soy un desarrollador de aplicaciones y estudiante de programación de 26 años, nacido en Sevilla. Me gusta aportar valor en cada proyecto que participo, buscando siempre que el resultado marque una diferencia.<br><br>
+Soy desarrollador de aplicaciones y estudiante de programación, tengo 26 años y soy de Sevilla. Me gusta aportar valor en cada proyecto en el que participo, buscando siempre que el resultado marque una diferencia.<br><br>
 Tengo capacidad para enfrentar nuevos retos y aprender tecnologías. He trabajado en varios proyectos de APIs REST usando Spring, y actualmente estoy aprendiendo otros frameworks para ampliar mis conocimientos y herramientas de desarrollo. Me gusta colaborar en equipo, aportando para lograr soluciones de calidad.<br><br>
 Mi objetivo es seguir creciendo en el mundo del desarrollo de software, contribuyendo activamente en proyectos y manteniéndome al día con las últimas tendencias tecnológicas.
 
@@ -37,7 +37,7 @@ Mi objetivo es seguir creciendo en el mundo del desarrollo de software, contribu
 ## 💼 Technical Skills Most Used  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,python,angular,ts,spring,github,vscode)](https://www.baeldung.com)
 
-## 📩 Contacto
+## 📩 Contact
 <p align="left" >
       <a href="mailto:alorentealman@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png"  width="30"></a>
         <a href="https://www.linkedin.com/in/álvaro-lorente-almán-5018a42a5/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059761-c87c0437-c1b5-4e33-8d3e-e00adf4afc57.png"  width="30"></a>
