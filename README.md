@@ -7,11 +7,11 @@ Mi objetivo es seguir creciendo en el mundo del desarrollo de software, contribu
 
 <img src="https://img.icons8.com/fluency/48/000000/multiple-devices.png" alt="multiplatform devices" width="20" height="20"/> Desarrollo aplicaciones multiplataforma. 
 
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring logo" width="20" height="20"/> Proyectos con SpringBoot  
+<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring logo" width="20" height="20"/> Proyectos SpringBoot  
 - [Proyecto Empresa Paquetería](https://github.com/alvaroloal/proyecto-paquetes)
 - [Proyecto Tienda Productos Remo](https://github.com/alvaroloal/proyecto-tienda-remo)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular logo" width="20" height="20"/> Aplicaciones con Angular. 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular logo" width="20" height="20"/> Aplicaciones Angular. 
 
 [![](https://visitcount.itsvg.in/api?id=alvaroloal&icon=0&color=0)](https://visitcount.itsvg.in)
 
