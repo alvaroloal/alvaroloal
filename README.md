@@ -30,10 +30,10 @@ Mi objetivo es seguir creciendo en el mundo del desarrollo de software, contribu
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alvaroloal&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
+<!-- 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alvaroloal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+-->
 ## 💼 Technical Skills Most Used  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,python,angular,ts,spring,github,vscode)](https://www.baeldung.com)
 
