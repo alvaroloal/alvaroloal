@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy <a href="">Álvaro</a> 👋</h1>
+<h1 align="">Hola, soy <a href="">Álvaro</a> 👋</h1>
 
 ## 💫 About Me:
 Soy estudiante de programación, tengo 26 años y soy de Sevilla. Actualmente estoy cursando el grado de Desarrollo Aplicaciones Multiplataforma.<br><br>
