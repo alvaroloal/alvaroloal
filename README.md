@@ -10,7 +10,7 @@ He trabajado en varios proyectos de APIs REST usando Spring, y actualmente estoy
 - [Proyecto Empresa Paquetería](https://github.com/alvaroloal/proyecto-paquetes)
 - [Proyecto Tienda Productos Remo](https://github.com/alvaroloal/proyecto-tienda-remo)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular logo" width="20" height="20"/> Aplicaciones Angular. 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular logo" width="20" height="20"/> Aplicaciones Web Angular. 
 
 [![](https://visitcount.itsvg.in/api?id=alvaroloal&icon=0&color=0)](https://visitcount.itsvg.in)
 
