@@ -34,7 +34,7 @@ He trabajado en varios proyectos de APIs REST usando Spring, y actualmente estoy
 ![](https://github-contributor-stats.vercel.app/api?username=alvaroloal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 -->
 ## 💼 Technical Skills Most Used  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,python,angular,ts,spring,github,vscode)](https://www.baeldung.com)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,python,angular,ts,spring,github,vscode,idea)](https://www.baeldung.com)
 
 ## 📩 Contact
 <p align="left" >
