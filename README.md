@@ -6,7 +6,7 @@ He trabajado en varios proyectos de APIs REST usando Spring, actualmente estoy a
 
 <img src="https://img.icons8.com/fluency/48/000000/multiple-devices.png" alt="multiplatform devices" width="20" height="20"/> Desarrollo aplicaciones multiplataforma. 
 
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring logo" width="20" height="20"/> Proyectos SpringBoot. 
+<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring logo" width="20" height="20"/> Proyectos Spring Boot. 
 - [Proyecto Empresa Paquetería](https://github.com/alvaroloal/proyecto-paquetes)
 - [Proyecto Tienda Productos Remo](https://github.com/alvaroloal/proyecto-tienda-remo)
 
