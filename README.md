@@ -13,7 +13,7 @@ He trabajado en varios proyectos de APIs REST usando Spring, actualmente estoy a
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular logo" width="20" height="20"/> Aplicaciones web Angular.
 [![](https://visitcount.itsvg.in/api?id=alvaroloal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Profile Views](https://komarev.com/ghpvc/?username=alvaroloal&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=alvaroloal&color=blue)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/álvaro-lorente-almán-729634281) 
