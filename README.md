@@ -1,7 +1,7 @@
 <h1 align="">Hola, soy <a href="">Álvaro</a> 👋</h1>
 
 ## 💫 About Me:
-Estudiante de programación, tengo 26 años y soy de Sevilla. Actualmente estoy cursando el grado de Desarrollo Aplicaciones Multiplataforma.<br><br>
+Estudiante de programación, tengo 27 años y soy de Sevilla. Actualmente estoy cursando el grado de Desarrollo Aplicaciones Multiplataforma.<br><br>
 He trabajado en varios proyectos de APIs REST usando Spring, actualmente estoy aprendiendo otros frameworks de desarrollo de aplicaciones web y móvil (Angular y Flutter), y lenguajes de programación como Python para ampliar mis conocimientos y herramientas de desarrollo.
 
 <img src="https://img.icons8.com/fluency/48/000000/multiple-devices.png" alt="multiplatform devices" width="20" height="20"/> Desarrollo aplicaciones multiplataforma. 
