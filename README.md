@@ -5,7 +5,7 @@ Soy estudiante de programación, tengo 27 años y soy de Sevilla. Actualmente cu
 
 Tengo experiencia en el desarrollo de APIs REST con Spring y en frameworks para aplicaciones web y móvil, como Angular y Flutter. Además, estoy aprendiendo Python y el desarrollo de APIs con FastApi.
 
-Los lenguajes de programación con los que he trabajado son Java, Python, Html, Css, JavaScript, y TypeScript.
+Los lenguajes de programación con los que he trabajado son Java, Python, Html, Css, JavaScript y TypeScript.
 
 <img src="https://img.icons8.com/fluency/48/000000/multiple-devices.png" alt="multiplatform devices" width="20" height="20"/> Desarrollo aplicaciones multiplataforma. 
 
