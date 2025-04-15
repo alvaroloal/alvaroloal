@@ -1,13 +1,50 @@
-<h1 align="">Hola, soy <a href="">Álvaro</a> 👋</h1>
-
-## 💫 About Me:
-Soy estudiante de programación, tengo 27 años y soy de Sevilla. Actualmente curso el Grado Superior en Desarrollo de Aplicaciones Multiplataforma.
-
-Tengo experiencia en el desarrollo de APIs REST con Spring y en frameworks para aplicaciones web y móvil, como Angular y Flutter. Además, estoy aprendiendo Python y el desarrollo de APIs con FastApi.
-
-Los lenguajes de programación con los que he trabajado son Java, Python, Html, Css, JavaScript y TypeScript.
-
-<img src="https://img.icons8.com/fluency/48/000000/multiple-devices.png" alt="multiplatform devices" width="20" height="20"/> Desarrollo aplicaciones multiplataforma. 
+## <a href="https://alvaroloal.github.io/">Álvaro Lorente Almán</a>
+<div align="left">
+  <table>
+    <tr>
+      <th>Lenguajes programación</th>
+      <th>Backend</th>
+      <th>Frontend</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Java-★★★★☆-ED8B00?style=plastic&logo=openjdk&logoColor=white" alt="Java Skill Badge" /><br />
+        <img src="https://img.shields.io/badge/Python-★★☆☆☆-3776AB?style=plastic&logo=python&logoColor=white" alt="Python Skill Badge" /><br />
+        <img src="https://img.shields.io/badge/JavaScript-★★★☆☆-F7DF1E?style=plastic&logo=javascript&logoColor=white" alt="JavaScript Skill Badge" /><br />         <img src="https://img.shields.io/badge/TypeScript-★★★☆☆-3178C6?style=plastic&logo=typescript&logoColor=white" alt="TypeScript Skill Badge" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Spring_Boot-★★★★☆-6DB33F?style=plastic&logo=spring-boot&logoColor=white" alt="Spring Boot Skill Badge" /><br />
+        <img src="https://img.shields.io/badge/FastAPI-★★☆☆☆-009688?style=plastic&logo=fastapi&logoColor=white" alt="FastAPI Skill Badge" /><br />
+        <img src="https://img.shields.io/badge/Docker-★★★☆☆-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker Skill Badge" /><br />
+        <img src="https://img.shields.io/badge/Express-★★☆☆☆-000000?style=plastic&logo=express&logoColor=white" alt="Express Skill Badge" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Angular-★★★★☆-DD0031?style=plastic&logo=angular&logoColor=white" alt="Angular Skill Badge" /><br />         <img src="https://img.shields.io/badge/Flutter-★★★☆☆-02569B?style=plastic&logo=flutter&logoColor=white" alt="Flutter Skill Badge" /><br />
+        <img src="https://img.shields.io/badge/Thymeleaf-★★★☆☆-005F0F?style=plastic&logo=thymeleaf&logoColor=white" alt="Thymeleaf Skill Badge" /><br />
+        <img src="https://img.shields.io/badge/Astro-★★☆☆☆-FF5D01?style=plastic&logo=astro&logoColor=white" alt="Astro Skill Badge" />
+      </td>
+    </tr>
+    <tr>
+      <th>Bases de datos</th> 
+      <th>Technical skills</th>
+      <th>Tech Stack</th> 
+    </tr>
+    <tr>
+      <td> 
+        <img src="https://img.shields.io/badge/MongoDB-★★★☆☆-47A248?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB Skill Badge" /><br />
+        <img src="https://img.shields.io/badge/PostgreSQL-★★★☆☆-336791?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL Skill Badge" /><br />
+        <img src="https://img.shields.io/badge/Hibernate-★★★☆☆-59666C?style=plastic&logo=hibernate&logoColor=white" alt="Hibernate Skill Badge" /><br />
+        <img src="https://img.shields.io/badge/MySQL-★★★☆☆-4479A1?style=plastic&logo=mysql&logoColor=white" alt="MySQL Skill Badge" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-★★★★☆-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5 Skill Badge" /><br />         <img src="https://img.shields.io/badge/CSS3-★★☆☆☆-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3 Skill Badge" /><br />
+        <img src="https://img.shields.io/badge/Oracle-★★★☆☆-F80000?style=plastic&logo=oracle&logoColor=white" alt="Oracle Skill Badge" /><br />         <img src="https://img.shields.io/badge/Bootstrap-★★★☆☆-7952B3?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap Skill Badge" /><br />         <img src="https://img.shields.io/badge/Tailwind_CSS-★★☆☆☆-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Skill Badge" />
+      </td>
+      <td> 
+        <img src="https://img.shields.io/badge/GitHub-★★★☆☆-181717?style=plastic&logo=github&logoColor=white" alt="GitHub Skill Badge" /><br />         <img src="https://img.shields.io/badge/Figma-★★★☆☆-F24E1E?style=plastic&logo=figma&logoColor=white" alt="Figma Skill Badge" /><br /> <img src="https://img.shields.io/badge/Android%20Studio-★★☆☆☆-3DDC84?style=plastic&logo=androidstudio&logoColor=white" alt="Android Studio Skill Badge" />       </td>
+    </tr>
+  </table>
+</div>
 
 <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring logo" width="20" height="20"/> Proyectos Spring Boot. 
 - [Proyecto Empresa Paquetería](https://github.com/alvaroloal/proyecto-paquetes)
@@ -18,12 +55,12 @@ Los lenguajes de programación con los que he trabajado son Java, Python, Html, 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alvaroloal&color=blue)
 
+## 💼 Technical Skills Most Used  
+![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,ts,dart,spring,angular,flutter,fastapi,github,vscode,idea)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/álvaro-lorente-almán-729634281) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange)](https://alvaroloal.github.io/) 
-## 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
 
 
 ## 📊 GitHub Stats:
@@ -31,14 +68,12 @@ Los lenguajes de programación con los que he trabajado son Java, Python, Html, 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alvaroloal&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroloal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alvaroloal&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-<!-- 
+ 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alvaroloal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 -->
-## 💼 Technical Skills Most Used  
-![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,ts,dart,spring,angular,flutter,fastapi,github,vscode,idea)
 
 ## 📩 Contact
 <p align="left" >
