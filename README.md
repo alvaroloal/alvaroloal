@@ -69,13 +69,13 @@
 </table>
 </div>
 
-## <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring logo" width="20" height="20"/> Proyectos Spring Boot
+## <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring logo" width="25" height="25"/> Proyectos Spring Boot
 🔹 **[Proyecto Empresa Paquetería](https://github.com/alvaroloal/proyecto-paquetes)**  
 🔹 **[Proyecto Tienda Productos Remo](https://github.com/alvaroloal/proyecto-tienda-remo)**  
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular logo" width="20" height="20"/> Aplicaciones web Angular
+## <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular logo" width="25" height="25"/> Aplicaciones web Angular
 
-## <img src="https://img.icons8.com/color/48/flutter.png" alt="flutter logo" width="20" height="20"/> Aplicaciones móviles Flutter <br />
+## <img src="https://img.icons8.com/color/48/flutter.png" alt="flutter logo" width="25" height="25"/> Aplicaciones móvil Flutter <br />
 ![Profile Views](https://komarev.com/ghpvc/?username=alvaroloal&color=blue)
 
 ## 🚀 Technical Skills Most Used  
