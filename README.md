@@ -69,25 +69,25 @@
 </table>
 </div>
 
-### <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring logo" width="20" height="20"/> Proyectos Spring Boot
+## <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring logo" width="20" height="20"/> Proyectos Spring Boot
 🔹 **[Proyecto Empresa Paquetería](https://github.com/alvaroloal/proyecto-paquetes)**  
 🔹 **[Proyecto Tienda Productos Remo](https://github.com/alvaroloal/proyecto-tienda-remo)**  
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular logo" width="20" height="20"/> Aplicaciones web Angular
+## <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular logo" width="20" height="20"/> Aplicaciones web Angular
 
-### <img src="https://img.icons8.com/color/48/flutter.png" alt="flutter logo" width="20" height="20"/> Aplicaciones móviles Flutter <br />
+## <img src="https://img.icons8.com/color/48/flutter.png" alt="flutter logo" width="20" height="20"/> Aplicaciones móviles Flutter <br />
 ![Profile Views](https://komarev.com/ghpvc/?username=alvaroloal&color=blue)
 
 ## 🚀 Technical Skills Most Used  
 ![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,ts,dart,spring,angular,flutter,fastapi,github,vscode,idea)
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/álvaro-lorente-almán-729634281)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6F00?style=flat&logo=firefox-browser&logoColor=white)](https://alvaroloal.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alorentealman@gmail.com?Subject=Contacto%20desde%20GitHub)
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=alvaroloal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alvaroloal&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroloal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
