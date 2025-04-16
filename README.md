@@ -1,7 +1,7 @@
 ## <a href="https://alvaroloal.github.io/">Álvaro Lorente Almán</a>
-## Habilidades y tecnologías
+## 💻 Habilidades y tecnologías
 <div align="left">
-  <table>
+<table>
   <tr>
     <th>Lenguajes programación</th>
     <th>Backend</th>
@@ -17,6 +17,7 @@
     <td>
       <img src="https://img.shields.io/badge/Spring_Boot-★★★★☆-6DB33F?style=plastic&logo=spring-boot&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/FastAPI-★★☆☆☆-009688?style=plastic&logo=fastapi&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/Node.js-★★★☆☆-339933?style=plastic&logo=node.js&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/Docker-★★★☆☆-2496ED?style=plastic&logo=docker&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/Express-★★☆☆☆-000000?style=plastic&logo=express&logoColor=white" />
     </td>
@@ -27,7 +28,6 @@
       <img src="https://img.shields.io/badge/Thymeleaf-★★★☆☆-005F0F?style=plastic&logo=thymeleaf&logoColor=white" />
     </td>
   </tr>
-    
   <tr>
     <th>Technical skills</th> 
     <th>Tech Stack</th>
@@ -43,12 +43,14 @@
       <img src="https://img.shields.io/badge/JPA-★★★☆☆-007396?style=plastic&logo=java&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/JUnit-★★★☆☆-25A162?style=plastic&logo=java&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/Swagger-★★★★☆-85EA2D?style=plastic&logo=swagger&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/OpenAPI-★★★★☆-6BA539?style=plastic&logo=openapiinitiative&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAPI-★★★★☆-6BA539?style=plastic&logo=openapiinitiative&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/REST-★★★★☆-FF5733?style=plastic&logo=apachespark&logoColor=white" />
     </td>
     <td> 
       <img src="https://img.shields.io/badge/GitHub-★★★☆☆-181717?style=plastic&logo=github&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/Android%20Studio-★★☆☆☆-3DDC84?style=plastic&logo=androidstudio&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/Postman-★★★☆☆-FF6C37?style=plastic&logo=postman&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/GitFlow-★★★☆☆-F05032?style=plastic&logo=git&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/Docker%20Compose-★★★☆☆-2496ED?style=plastic&logo=docker&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/VSCode-★★★★☆-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-★★★☆☆-000000?style=plastic&logo=intellijidea&logoColor=white" /><br />
@@ -65,20 +67,18 @@
     </td>
   </tr>
 </table>
-
-
 </div>
 
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring logo" width="20" height="20"/> Proyectos Spring Boot. 
-- [Proyecto Empresa Paquetería](https://github.com/alvaroloal/proyecto-paquetes)
-- [Proyecto Tienda Productos Remo](https://github.com/alvaroloal/proyecto-tienda-remo)
+### <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring logo" width="20" height="20"/> Proyectos Spring Boot
+🔹 **[Proyecto Empresa Paquetería](https://github.com/alvaroloal/proyecto-paquetes)**  
+🔹 **[Proyecto Tienda Productos Remo](https://github.com/alvaroloal/proyecto-tienda-remo)**  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular logo" width="20" height="20"/> Aplicaciones web Angular.
-[![](https://visitcount.itsvg.in/api?id=alvaroloal&icon=0&color=0)](https://visitcount.itsvg.in)
+### <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular logo" width="20" height="20"/> Aplicaciones web Angular
 
+### <img src="https://img.icons8.com/color/48/flutter.png" alt="flutter logo" width="20" height="20"/> Aplicaciones móviles Flutter <br />
 ![Profile Views](https://komarev.com/ghpvc/?username=alvaroloal&color=blue)
 
-## 💼 Technical Skills Most Used  
+## 🚀 Technical Skills Most Used  
 ![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,ts,dart,spring,angular,flutter,fastapi,github,vscode,idea)
 
 ## 🌐 Socials:
