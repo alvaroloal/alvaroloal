@@ -23,10 +23,11 @@
     <td>
       <img src="https://img.shields.io/badge/Angular-★★★★☆-DD0031?style=plastic&logo=angular&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/Flutter-★★★☆☆-02569B?style=plastic&logo=flutter&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Thymeleaf-★★★☆☆-005F0F?style=plastic&logo=thymeleaf&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Astro-★★☆☆☆-FF5D01?style=plastic&logo=astro&logoColor=white" />
+      <img src="https://img.shields.io/badge/Astro-★★☆☆☆-FF5D01?style=plastic&logo=astro&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/Thymeleaf-★★★☆☆-005F0F?style=plastic&logo=thymeleaf&logoColor=white" />
     </td>
   </tr>
+    
   <tr>
     <th>Technical skills</th> 
     <th>Tech Stack</th>
@@ -36,7 +37,6 @@
     <td>
       <img src="https://img.shields.io/badge/HTML5-★★★★☆-E34F26?style=plastic&logo=html5&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/CSS3-★★★★☆-1572B6?style=plastic&logo=css3&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Oracle-★★★☆☆-F80000?style=plastic&logo=oracle&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/Bootstrap-★★★☆☆-7952B3?style=plastic&logo=bootstrap&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/Tailwind_CSS-★★★☆☆-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/TypeORM-★★★☆☆-FF5733?style=plastic&logo=typeorm&logoColor=white" /><br />
@@ -47,12 +47,12 @@
     </td>
     <td> 
       <img src="https://img.shields.io/badge/GitHub-★★★☆☆-181717?style=plastic&logo=github&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Figma-★★★☆☆-F24E1E?style=plastic&logo=figma&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/Android%20Studio-★★☆☆☆-3DDC84?style=plastic&logo=androidstudio&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/Postman-★★★☆☆-FF6C37?style=plastic&logo=postman&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/Docker%20Compose-★★★☆☆-2496ED?style=plastic&logo=docker&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/VSCode-★★★★☆-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-★★★☆☆-000000?style=plastic&logo=intellijidea&logoColor=white" />
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-★★★☆☆-000000?style=plastic&logo=intellijidea&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/Figma-★★★☆☆-F24E1E?style=plastic&logo=figma&logoColor=white" />
     </td>
     <td> 
       <img src="https://img.shields.io/badge/MongoDB-★★★☆☆-47A248?style=plastic&logo=mongodb&logoColor=white" /><br />
@@ -60,7 +60,8 @@
       <img src="https://img.shields.io/badge/Hibernate-★★★☆☆-59666C?style=plastic&logo=hibernate&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/MySQL-★★★☆☆-4479A1?style=plastic&logo=mysql&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/DBeaver-★★★☆☆-372923?style=plastic&logo=dbeaver&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/pgAdmin-★★★☆☆-336791?style=plastic&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/pgAdmin-★★★☆☆-336791?style=plastic&logo=postgresql&logoColor=white" /><br />
+      <img src="https://img.shields.io/badge/Oracle-★★★☆☆-F80000?style=plastic&logo=oracle&logoColor=white" />
     </td>
   </tr>
 </table>
