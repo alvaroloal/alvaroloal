@@ -99,9 +99,8 @@
 -->
 
 ## 📩 Contact
-<p align="left">
-  <a href="mailto:alorentealman@gmail.com?Subject=I%20want%20propose%20you%20something" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/48330849/172060688-5e1bf6ca-7bb9-43a2-b202-001170434946.png" width="30" alt="Gmail"/>
-  </a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alorentealman@gmail.com?Subject=Contacto%20desde%20GitHub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/álvaro-lorente-almán-729634281)
+
+
 
