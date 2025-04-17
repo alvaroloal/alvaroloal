@@ -9,23 +9,23 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/Java-★★★★☆-ED8B00?style=plastic&logo=openjdk&logoColor=white" alt="Java Skill Badge" /><br />
-      <img src="https://img.shields.io/badge/Python-★★☆☆☆-3776AB?style=plastic&logo=python&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/JavaScript-★★★☆☆-F7DF1E?style=plastic&logo=javascript&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/TypeScript-★★★☆☆-3178C6?style=plastic&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-★★★★☆-ED8B00?style=plastic&logo=openjdk&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/Python-★★☆☆☆-3776AB?style=plastic&logo=python&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/JavaScript-★★★☆☆-F7DF1E?style=plastic&logo=javascript&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/TypeScript-★★★☆☆-3178C6?style=plastic&logo=typescript&logoColor=default" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Spring_Boot-★★★★☆-6DB33F?style=plastic&logo=spring-boot&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/FastAPI-★★☆☆☆-009688?style=plastic&logo=fastapi&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Node.js-★★★☆☆-339933?style=plastic&logo=node.js&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Docker-★★★☆☆-2496ED?style=plastic&logo=docker&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Express-★★☆☆☆-000000?style=plastic&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-★★★★☆-6DB33F?style=plastic&logo=spring-boot&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/FastAPI-★★☆☆☆-009688?style=plastic&logo=fastapi&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/Node.js-★★★☆☆-339933?style=plastic&logo=node.js&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/Docker-★★★☆☆-2496ED?style=plastic&logo=docker&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/Express-★★☆☆☆-000000?style=plastic&logo=express&logoColor=default" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Angular-★★★★☆-DD0031?style=plastic&logo=angular&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Flutter-★★★☆☆-02569B?style=plastic&logo=flutter&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Astro-★★☆☆☆-FF5D01?style=plastic&logo=astro&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Thymeleaf-★★★☆☆-005F0F?style=plastic&logo=thymeleaf&logoColor=white" />
+      <img src="https://img.shields.io/badge/Angular-★★★★☆-DD0031?style=plastic&logo=angular&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/Flutter-★★★☆☆-02569B?style=plastic&logo=flutter&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/Astro-★★☆☆☆-FF5D01?style=plastic&logo=astro&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/Thymeleaf-★★★☆☆-005F0F?style=plastic&logo=thymeleaf&logoColor=default" />
     </td>
   </tr>
   <tr>
@@ -35,47 +35,48 @@
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/HTML5-★★★★☆-E34F26?style=plastic&logo=html5&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/CSS3-★★★★☆-1572B6?style=plastic&logo=css3&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Bootstrap-★★★☆☆-7952B3?style=plastic&logo=bootstrap&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-★★★☆☆-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/TypeORM-★★★☆☆-FF5733?style=plastic&logo=typeorm&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/JPA-★★★☆☆-007396?style=plastic&logo=java&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/JUnit-★★★☆☆-25A162?style=plastic&logo=java&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Swagger-★★★★☆-85EA2D?style=plastic&logo=swagger&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/OpenAPI-★★★★☆-6BA539?style=plastic&logo=openapiinitiative&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/REST-★★★★☆-FF5733?style=plastic&logo=apachespark&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-★★★★☆-E34F26?style=plastic&logo=html5&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/CSS3-★★★★☆-1572B6?style=plastic&logo=css3&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/Bootstrap-★★★☆☆-7952B3?style=plastic&logo=bootstrap&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-★★★☆☆-06B6D4?style=plastic&logo=tailwindcss&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/TypeORM-★★★☆☆-FF5733?style=plastic&logo=typeorm&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/JPA-★★★☆☆-007396?style=plastic&logo=java&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/JUnit-★★★☆☆-25A162?style=plastic&logo=java&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/Swagger-★★★★☆-85EA2D?style=plastic&logo=swagger&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/OpenAPI-★★★★☆-6BA539?style=plastic&logo=openapiinitiative&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/REST-★★★★☆-FF5733?style=plastic&logo=apachespark&logoColor=default" />
     </td>
     <td> 
-      <img src="https://img.shields.io/badge/GitHub-★★★☆☆-181717?style=plastic&logo=github&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Android%20Studio-★★☆☆☆-3DDC84?style=plastic&logo=androidstudio&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Postman-★★★☆☆-FF6C37?style=plastic&logo=postman&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/GitFlow-★★★☆☆-F05032?style=plastic&logo=git&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Docker%20Compose-★★★☆☆-2496ED?style=plastic&logo=docker&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/VSCode-★★★★☆-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-★★★☆☆-000000?style=plastic&logo=intellijidea&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Figma-★★★☆☆-F24E1E?style=plastic&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-★★★☆☆-181717?style=plastic&logo=github&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/Android%20Studio-★★☆☆☆-3DDC84?style=plastic&logo=androidstudio&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/Postman-★★★☆☆-FF6C37?style=plastic&logo=postman&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/GitFlow-★★★☆☆-F05032?style=plastic&logo=git&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/Docker%20Compose-★★★☆☆-2496ED?style=plastic&logo=docker&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/VSCode-★★★★☆-007ACC?style=plastic&logo=visualstudiocode&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-★★★☆☆-000000?style=plastic&logo=intellijidea&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/Figma-★★★☆☆-F24E1E?style=plastic&logo=figma&logoColor=default" />
     </td>
     <td> 
-      <img src="https://img.shields.io/badge/MongoDB-★★★☆☆-47A248?style=plastic&logo=mongodb&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/PostgreSQL-★★★☆☆-336791?style=plastic&logo=postgresql&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Hibernate-★★★☆☆-59666C?style=plastic&logo=hibernate&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/MySQL-★★★☆☆-4479A1?style=plastic&logo=mysql&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/DBeaver-★★★☆☆-372923?style=plastic&logo=dbeaver&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/pgAdmin-★★★☆☆-336791?style=plastic&logo=postgresql&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Oracle-★★★☆☆-F80000?style=plastic&logo=oracle&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-★★★☆☆-47A248?style=plastic&logo=mongodb&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/PostgreSQL-★★★☆☆-336791?style=plastic&logo=postgresql&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/Hibernate-★★★☆☆-59666C?style=plastic&logo=hibernate&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/MySQL-★★★☆☆-4479A1?style=plastic&logo=mysql&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/DBeaver-★★★☆☆-372923?style=plastic&logo=dbeaver&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/pgAdmin-★★★☆☆-336791?style=plastic&logo=postgresql&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/Oracle-★★★☆☆-F80000?style=plastic&logo=oracle&logoColor=default" />
     </td>
   </tr>
 </table>
+
 </div>
 
 ## <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring logo" width="25" height="25"/> Proyectos Spring Boot
 🔹 **[Proyecto Empresa Paquetería](https://github.com/alvaroloal/proyecto-paquetes)**  
 🔹 **[Proyecto Tienda Productos Remo](https://github.com/alvaroloal/proyecto-tienda-remo)**  
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular logo" width="25" height="25"/> Aplicaciones web Angular
+<!--## <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular logo" width="25" height="25"/> Aplicaciones web Angular -->
 
-## <img src="https://img.icons8.com/color/48/flutter.png" alt="flutter logo" width="25" height="25"/> Aplicaciones móvil Flutter <br />
+<!-- ## <img src="https://img.icons8.com/color/48/flutter.png" alt="flutter logo" width="25" height="25"/> Aplicaciones móvil Flutter --> <br /> 
 ![Profile Views](https://komarev.com/ghpvc/?username=alvaroloal&color=blue)
 
 ## 🚀 Technical Skills Most Used  
