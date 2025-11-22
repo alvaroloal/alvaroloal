@@ -1,9 +1,9 @@
 ## <a href="https://alvaroloal.github.io/">Álvaro Lorente Almán</a>
-## 💻 Habilidades y tecnologías
+## 💻 Skills and Technologies
 <div align="left">
 <table>
   <tr>
-    <th>Lenguajes programación</th>
+    <th>Programming Languages</th>
     <th>Backend</th>
     <th>Frontend</th>
   </tr>
@@ -12,7 +12,8 @@
       <img src="https://img.shields.io/badge/Java-★★★★☆-ED8B00?style=plastic&logo=openjdk&logoColor=ED8B00" /><br />
       <img src="https://img.shields.io/badge/Python-★★☆☆☆-3776AB?style=plastic&logo=python&logoColor=default" /><br />
       <img src="https://img.shields.io/badge/JavaScript-★★★☆☆-F7DF1E?style=plastic&logo=javascript&logoColor=default" /><br />
-      <img src="https://img.shields.io/badge/TypeScript-★★★☆☆-3178C6?style=plastic&logo=typescript&logoColor=default" />
+      <img src="https://img.shields.io/badge/TypeScript-★★★☆☆-3178C6?style=plastic&logo=typescript&logoColor=default" /><br />
+      <img src="https://img.shields.io/badge/PHP-★★☆☆☆-777BB4?style=plastic&logo=php&logoColor=default" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/Spring_Boot-★★★★☆-6DB33F?style=plastic&logo=spring-boot&logoColor=default" /><br />
@@ -20,7 +21,8 @@
       <img src="https://img.shields.io/badge/Node.js-★★★☆☆-339933?style=plastic&logo=node.js&logoColor=default" /><br />
       <img src="https://img.shields.io/badge/Docker-★★★☆☆-2496ED?style=plastic&logo=docker&logoColor=default" /><br />
       <img src="https://img.shields.io/badge/Express-★★☆☆☆-000000?style=plastic&logo=express&logoColor=default" /><br />
-      <img src="https://img.shields.io/badge/npm-★★★☆☆-CB3837?style=plastic&logo=npm&logoColor=CB3837" />
+      <img src="https://img.shields.io/badge/npm-★★★☆☆-CB3837?style=plastic&logo=npm&logoColor=CB3837" /><br />
+      <img src="https://img.shields.io/badge/Laravel-★★☆☆☆-FF2D20?style=plastic&logo=laravel&logoColor=default" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/Angular-★★★★☆-DD0031?style=plastic&logo=angular&logoColor=DD0031" /><br />
@@ -32,7 +34,7 @@
   <tr>
     <th>Technical skills</th> 
     <th>Tech Stack</th>
-    <th>Bases de datos</th> 
+    <th>Databases</th> 
   </tr>
   <tr>
     <td>
@@ -72,7 +74,7 @@
 
 </div>
 
-## <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="spring logo" width="25" height="25"/> Proyectos Spring Boot
+## 🗂️ Projects
 🔹 **[Proyecto Calesapp](https://github.com/alvaroloal/proyecto-calesapp)**
 
 🔹 **[Proyecto Transportes Lorente](https://github.com/alvaroloal/proyecto-paquetes)**
@@ -85,12 +87,20 @@
 <!-- ## <img src="https://img.icons8.com/color/48/flutter.png" alt="flutter logo" width="25" height="25"/> Aplicaciones móvil Flutter --> <br /> 
 ![Profile Views](https://komarev.com/ghpvc/?username=alvaroloal&color=blue)
 ## 🚀 Technical Skills Most Used  
-![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,ts,dart,spring,angular,flutter,fastapi,github,vscode,idea)
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,ts,dart,spring,angular,flutter,fastapi,github,vscode,idea&perline=14" width="400" alt="My Skills" />
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/álvaro-lorente-almán-729634281)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F00?style=flat&logo=firefox-browser&logoColor=white)](https://alvaroloal.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alorentealman@gmail.com?Subject=Contacto%20desde%20GitHub)
+<p>
+  <a href="https://linkedin.com/in/álvaro-lorente-almán-729634281">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://alvaroloal.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/alvaroloal">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 
 ## 📊 GitHub Stats
@@ -107,8 +117,16 @@
 -->
 
 ## 📩 Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alorentealman@gmail.com?Subject=Contacto%20desde%20GitHub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/álvaro-lorente-almán-729634281)
+<p>
+  <a href="mailto:alorentealman@gmail.com?Subject=Contacto%20desde%20GitHub">
+    <img src="https://img.shields.io/badge/Email-alorentealman@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+<p>
+  <a href="https://linkedin.com/in/álvaro-lorente-almán-729634281">
+    <img src="https://img.shields.io/badge/LinkedIn-Álvaro_Lorente_Almán-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 
 
