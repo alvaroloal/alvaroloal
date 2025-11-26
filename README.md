@@ -1,5 +1,7 @@
 ## <a href="https://alvaroloal.github.io/">Álvaro Lorente Almán</a>
+
 ## 💻 Skills and Technologies
+
 <div align="left">
 <table>
   <tr>
@@ -71,25 +73,21 @@
   </tr>
 </table>
 
-
 </div>
 
 ## 🗂️ Projects
+
 🔹 **[Proyecto Calesapp](https://github.com/alvaroloal/proyecto-calesapp)**
 
 🔹 **[Proyecto Transportes Lorente](https://github.com/alvaroloal/proyecto-paquetes)**
 
 🔹 **[Proyecto Tienda Todo Remo](https://github.com/alvaroloal/proyecto-tienda-remo)**
-  
 
-<!--## <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular logo" width="25" height="25"/> Aplicaciones web Angular -->
-
-<!-- ## <img src="https://img.icons8.com/color/48/flutter.png" alt="flutter logo" width="25" height="25"/> Aplicaciones móvil Flutter --> <br /> 
-![Profile Views](https://komarev.com/ghpvc/?username=alvaroloal&color=blue)
-## 🚀 Technical Skills Most Used  
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,ts,dart,spring,angular,flutter,fastapi,github,vscode,idea&perline=14" width="400" alt="My Skills" />
+<!--## 🚀 Technical Skills Most Used
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,ts,dart,spring,angular,flutter,fastapi,github,vscode,idea&perline=14" width="400" alt="My Skills" /> -->
 
 ## 🌐 Socials
+
 <p>
   <a href="https://linkedin.com/in/álvaro-lorente-almán-729634281">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -100,23 +98,24 @@
   <a href="https://github.com/alvaroloal">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=alvaroloal&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
 
-
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroloal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=alvaroloal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alvaroloal&theme=tokyonight&hide_border=false)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroloal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=alvaroloal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=alvaroloal&theme=tokyonight&hide_border=false)
 
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alvaroloal&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
- 
+
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alvaroloal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 -->
 
 ## 📩 Contact
+
 <p>
   <a href="mailto:alorentealman@gmail.com?Subject=Contacto%20desde%20GitHub">
     <img src="https://img.shields.io/badge/Email-alorentealman@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -127,6 +126,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-Álvaro_Lorente_Almán-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-
-
