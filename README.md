@@ -28,6 +28,7 @@
     </td>
     <td>
       <img src="https://img.shields.io/badge/Angular-★★★★☆-DD0031?style=plastic&logo=angular&logoColor=DD0031" /><br />
+      <img src="https://img.shields.io/badge/React-★★★★☆-61DAFB?style=plastic&logo=react&logoColor=61DAFB" /><br />
       <img src="https://img.shields.io/badge/Flutter-★★★☆☆-02569B?style=plastic&logo=flutter&logoColor=02569B" /><br />
       <img src="https://img.shields.io/badge/Astro-★★☆☆☆-FF5D01?style=plastic&logo=astro&logoColor=FF5D01" /><br />
       <img src="https://img.shields.io/badge/Thymeleaf-★★★☆☆-005F0F?style=plastic&logo=thymeleaf&logoColor=005F0F" />
