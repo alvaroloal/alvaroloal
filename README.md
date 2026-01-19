@@ -108,6 +108,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroloal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alvaroloal&theme=tokyonight&hide_border=false)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvaroloal/alvaroloal/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvaroloal/alvaroloal/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alvaroloal/alvaroloal/output/pacman-contribution-graph.svg">
+</picture>
+
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alvaroloal&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
@@ -127,10 +133,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-Álvaro_Lorente_Almán-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvaroloal/alvaroloal/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvaroloal/alvaroloal/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alvaroloal/alvaroloal/output/pacman-contribution-graph.svg">
-</picture>
 
